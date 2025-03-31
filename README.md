@@ -1,6 +1,6 @@
 # Wallet_Extension
-<<<<<<< HEAD
-(Your local README content)
-=======
-(Remote GitHub README content)
->>>>>>> origin/main
+A browser extension for seamless blockchain integration.
+
+## Features
+- Multi-chain support (Ethereum, Solana, etc.)
+- Secure and easy-to-use wallet
